@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ebubekir Karanfil</h1>
 <h3 align="center">Young developer who is constantly trying to learn and improve himself.</h3>
 
-- 🌱 I’m currently learning **Django, React, Data Science, Computer Network**
+- 🌱 I’m currently learning **Django, React, Data Science, Computer Networks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pandaclove](https://github.com/pandaclove)
 
