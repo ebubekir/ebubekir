@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ebubekir Karanfil</h1>
 <h3 align="center">Young developer who is constantly trying to learn and improve himself.</h3>
 
-- 🌱 I’m currently learning **Java, Javascript, React, Python**
+- 🌱 I’m currently learning ** Javascript, React, Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ebubekir](https://github.com/ebubekir)
 
-- 💬 Ask me about **Javascript, Java, C#**
+- 💬 Ask me about **Javascript, Python**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
