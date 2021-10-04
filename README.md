@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ebubekir Karanfil</h1>
 <h3 align="center">Young developer who is constantly trying to learn and improve himself.</h3>
 
-- 🌱 I’m currently learning ** Javascript, React, Python**
+- 🌱 I’m currently learning **Javascript, React, Pythonavascript, Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ebubekir](https://github.com/ebubekir)
 
