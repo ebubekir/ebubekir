@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ebubekir Karanfil</h1>
-<h3 align="center">Software Develo</h3>
+<h3 align="center">Software Developer</h3>
 
 - **Javascript, Python, .NET**
 
