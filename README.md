@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ebubekir Karanfil</h1>
 <h3 align="center">Software Developer</h3>
 
-- **Javascript, Python, .NET**
+- **Javascript, Python, .NET, Java**
 
 - Experienced every stage of **data-driven product development**, from ideation to deployment.
 - Utilized back-end and database tools such as **Python, FastAPI, SQLAlchemy, PostgreSQL and Clickhouse** for building robust and scalable applications.
